@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="previewb_colorPrimary">#3F51B5</color>
+    <color name="previewb_colorPrimaryDark">#303F9F</color>
+    <color name="previewb_colorAccent">#FF4081</color>
+</resources>

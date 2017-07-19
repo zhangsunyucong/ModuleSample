@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\AndroidStudioProjects\\MyConpnent\\modulea\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "F:\\Users\\zhang\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\864fdeb2c808c4c61dd169c84f2c3f45\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

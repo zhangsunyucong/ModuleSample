@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":baselibrary"><source path="C:\AndroidStudioProjects\MyConpnent\baselibrary\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="C:\AndroidStudioProjects\MyConpnent\modulea\src\main\assets"/><source path="C:\AndroidStudioProjects\MyConpnent\modulea\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\AndroidStudioProjects\MyConpnent\modulea\src\debug\assets"/></dataSet></merger>

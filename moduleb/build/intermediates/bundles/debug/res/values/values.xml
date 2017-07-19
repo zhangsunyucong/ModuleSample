@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="previewb_colorAccent">#FF4081</color>
+    <color name="previewb_colorPrimary">#3F51B5</color>
+    <color name="previewb_colorPrimaryDark">#303F9F</color>
+    <string name="previewb_app_name">Moduleb</string>
+    <style name="previewb_AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/previewb_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/previewb_colorPrimaryDark</item>
+        <item name="colorAccent">@color/previewb_colorAccent</item>
+    </style>
+</resources>

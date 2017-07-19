@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyConpnent\\modulea\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\previewa_ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\MyConpnent\\modulea\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\previewa_ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyConpnent\\modulea\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4\\previewa_ic_launcher_round.png",
+        "source": "C:\\AndroidStudioProjects\\MyConpnent\\modulea\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxxhdpi-v4\\previewa_ic_launcher_round.png"
+    }
+]

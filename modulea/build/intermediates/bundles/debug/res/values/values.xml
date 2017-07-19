@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="previewa_colorAccent">#FF4081</color>
+    <color name="previewa_colorPrimary">#3F51B5</color>
+    <color name="previewa_colorPrimaryDark">#303F9F</color>
+    <string name="previewa_app_name">ModuleA</string>
+    <style name="previewa_AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/previewa_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/previewa_colorPrimaryDark</item>
+        <item name="colorAccent">@color/previewa_colorAccent</item>
+    </style>
+</resources>

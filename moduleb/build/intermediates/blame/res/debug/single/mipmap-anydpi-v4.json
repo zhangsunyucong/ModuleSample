@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyConpnent\\moduleb\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v4\\previewb_ic_launcher_round.xml",
+        "source": "C:\\AndroidStudioProjects\\MyConpnent\\moduleb\\src\\main\\res\\mipmap-anydpi\\previewb_ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyConpnent\\moduleb\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v4\\previewb_ic_launcher.xml",
+        "source": "C:\\AndroidStudioProjects\\MyConpnent\\moduleb\\src\\main\\res\\mipmap-anydpi\\previewb_ic_launcher.xml"
+    }
+]
