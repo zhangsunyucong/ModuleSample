@@ -1,2 +1,3 @@
 # ModuleSample
 android组件开发
+可以将应用根据功能划分为一个个的module，每个module是依赖于相同的library的。在开发的过程中通过设置一个变量就可以将module分开，可以单独编译，在发布时只要把变量修改回来将module组合就可以。module之间的页面交互可以使用路由。
